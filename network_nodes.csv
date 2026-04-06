@@ -1,0 +1,13 @@
+node_id,type,region,capacity
+FC-BLR-1,FC,South,12000
+FC-BLR-2,FC,South,9000
+FC-DEL-1,FC,North,15000
+FC-DEL-2,FC,North,11000
+FC-MUM-1,FC,West,13000
+FC-HYD-1,FC,South,8000
+SC-BLR,SC,South,25000
+SC-DEL,SC,North,30000
+SC-MUM,SC,West,28000
+SC-HYD,SC,South,18000
+SC-CHE,SC,South,15000
+SC-KOL,SC,East,14000
